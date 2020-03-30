@@ -1,5 +1,12 @@
-* linux
-  * zsh
-    * [zsh post 1](notes/linux/zsh/post_1.md)
-  * vim
-    * [vim post 1](notes/linux/vim/post_1.md)
+# Notes
+
+* Linux
+  * Git
+    * [Patches](notes/linux/git/patches.md)
+    * [Remove Submodule](notes/linux/git/remove_submodule.md)
+  * Zsh
+    * ["Command not found" hook](notes/linux/zsh/command_not_found.md)
+    * [Command line editor (zle)](notes/linux/zsh/zle.md)
+  * Vim
+* Software Guides
+  * [Nextcloud](notes/software/nextcloud.md)
